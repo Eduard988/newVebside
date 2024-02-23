@@ -1,0 +1,16 @@
+.app-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.naviation {
+    display: flex;
+    width: 100%;
+}
+
+.app-wrapper-content {
+    background-color: red;
+    width: 100%;
+}
